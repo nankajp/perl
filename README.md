@@ -1,3 +1,39 @@
+# What's this project?
+
+perl practice. 
+
+
+## how to execute
+
+```
+$ ./callPerl.sh
+shell started...
+-----------------------
+start perl...
+func Called
+job parameter is nothing.
+func_param_and_return Called
+param1 is 5
+param2 is 2
+result = 7
+end perl...
+-----------------------
+start perl...
+func Called
+job parameter is = PARAMETER-TEST
+func_param_and_return Called
+param1 is 5
+param2 is 2
+result = 7
+end perl...
+-----------------------
+shell end... exit_code[0]
+```
+
+
+------------------------------------------------------------------------------------------------------------- 
+
+
 # VSCode
 ## Settings
 ### Bracket
