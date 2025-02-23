@@ -6,12 +6,11 @@
 
 | 設定   | 項目名                                          |
 | ------ | -----------------------------------------------|
-| * [x]  | Editor › Bracket Pair Colorization: Enabled    |
+|  <ul><li>[x]</li></ul>  | Editor › Bracket Pair Colorization: Enabled    |
 |   -    | Editor › Bracket Pair Colorization: Independent Color Pool Per Bracket Type |
 | active | Editor › Guides: Bracket Pairs active          |
 | active | Editor › Guides: Bracket Pairs Horizontal      |
-| * [x]  | Editor › Guides: Highlight Active Bracket Pair |
-
+| <ul>- [x]</ul>  | Editor › Guides: Highlight Active Bracket Pair |
 
 
 ## Plugins
