@@ -4,12 +4,12 @@
 
 * `Ctrl + ,` -> `bracket` で検索し、以下の通り設定する。
 
-| 設定   | 項目名                                          |
-| ------ | -----------------------------------------------|
+| 設定                   | 項目名                                          |
+| ---------------------- | -----------------------------------------------|
 | <ul><li>[x] </li></ul> | Editor › Bracket Pair Colorization: Enabled    |
-|   -    | Editor › Bracket Pair Colorization: Independent Color Pool Per Bracket Type |
-| active | Editor › Guides: Bracket Pairs active          |
-| active | Editor › Guides: Bracket Pairs Horizontal      |
+| <ul><li>[ ] </li></ul> | Editor › Bracket Pair Colorization: Independent Color Pool Per Bracket Type |
+| active                 | Editor › Guides: Bracket Pairs active          |
+| active                 | Editor › Guides: Bracket Pairs Horizontal      |
 | <ul><li>[x] </li></ul> | Editor › Guides: Highlight Active Bracket Pair |
 
 
